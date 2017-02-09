@@ -3,3 +3,5 @@ Copyright 2012 - The CyanogenMod Project
 Device configuration for Samsung Galaxy Note (NTT DoCoMo model).
 
 WORK IN PROGRESS. WILL EAT YOUR CAT.
+
+quincyattのc5.1-c6 間の差分をquincydcmのc5.1 に適用してc6-test を作成した。動作保証は全くない。
