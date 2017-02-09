@@ -1,3 +1,3 @@
-add_lunch_combo candy5_quincydcm-user
-add_lunch_combo candy5_quincydcm-userdebug
-add_lunch_combo candy5_quincydcm-eng
+add_lunch_combo candy_quincydcm-user
+add_lunch_combo candy_quincydcm-userdebug
+add_lunch_combo candy_quincydcm-eng
